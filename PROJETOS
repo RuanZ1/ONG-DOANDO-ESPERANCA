@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONG Doando Esperança - Projetos Sociais</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="brand-container">
+            <img src="img/logo.png" alt="Logotipo da ONG Doando Esperança">
+            <h1>ONG Doando Esperança</h1>
+        </div>
+        <nav aria-label="Navegação Principal">
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="projetos.html">Projetos Sociais</a></li>
+                <li><a href="cadastro.html">Seja Voluntário</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="projetos">
+            <h2>Nossas Iniciativas Solidárias</h2>
+            <p style="grid-column: 1 / -1;">Conheça as ações que mantemos ativas com o apoio da comunidade e de nossos parceiros no terceiro setor.</p>
+            
+            <article>
+                <h3>Projeto Acolher</h3>
+                <p>Distribuição de refeições e kits de higiene para pessoas em situação de rua todas as semanas.</p>
+            </article>
+
+            <article>
+                <h3>Educação do Futuro</h3>
+                <p>Oficinas de inclusão digital, reforço escolar e capacitação profissional para jovens da periferia.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 ONG Doando Esperança. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
